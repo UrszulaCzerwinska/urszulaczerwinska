@@ -20,9 +20,11 @@ I am an experienced data scientist and deep learning engineer with a Ph.D. in Da
 
 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞 𝐭𝐨 𝐥𝐞𝐚𝐫𝐧 𝐦𝐨𝐫𝐞 𝐚𝐛𝐨𝐮𝐭:
 
+* My Linkedin Profile: https://www.linkedin.com/in/urszulaczerwinska/
+* My deep learning expertise: https://github.com/UrszulaCzerwinska
 * My latest publications: https://orcid.org/0000-0002-5244-0708 
 * My thoughts on AI & life: https://medium.com/@ulalaparis
-* My deep learning expertise: https://github.com/UrszulaCzerwinska
+
 
 𝑰 𝒂𝒎 𝒔𝒆𝒆𝒌𝒊𝒏𝒈 𝒂 𝒄𝒉𝒂𝒍𝒍𝒆𝒏𝒈𝒊𝒏𝒈 𝒓𝒐𝒍𝒆 𝒘𝒉𝒆𝒓𝒆 𝑰 𝒄𝒂𝒏 𝒍𝒆𝒗𝒆𝒓𝒂𝒈𝒆 𝒎𝒚 𝒔𝒌𝒊𝒍𝒍𝒔 𝒂𝒏𝒅 𝒑𝒂𝒔𝒔𝒊𝒐𝒏 𝒕𝒐 𝒎𝒂𝒌𝒆 𝒂 𝒔𝒊𝒈𝒏𝒊𝒇𝒊𝒄𝒂𝒏𝒕 𝒊𝒎𝒑𝒂𝒄𝒕 𝒊𝒏 𝒂𝒏𝒚 𝒊𝒏𝒅𝒖𝒔𝒕𝒓𝒚 𝒕𝒉𝒂𝒕 𝒍𝒆𝒗𝒆𝒓𝒂𝒈𝒆𝒔 𝒕𝒉𝒆 𝒑𝒐𝒘𝒆𝒓 𝒐𝒇 𝑨𝑰. 𝑴𝒚 𝒊𝒅𝒆𝒂𝒍 𝒐𝒑𝒑𝒐𝒓𝒕𝒖𝒏𝒊𝒕𝒚 𝒘𝒐𝒖𝒍𝒅 𝒐𝒇𝒇𝒆𝒓 𝒎𝒆 𝒕𝒉𝒆 𝒄𝒉𝒂𝒏𝒄𝒆 𝒕𝒐:
 
