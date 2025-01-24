@@ -36,3 +36,7 @@ I am an experienced data scientist and deep learning engineer with a Ph.D. in Da
 * Comunicate the achievements through blogs, articles and open source code.
 
 𝗞𝗲𝘆𝘄𝗼𝗿𝗱𝘀: Data Science, Deep Learning, Healthcare, Computer Vision, NLP, Machine Learning, Python, TensorFlow, PyTorch, Allennlp, Flair, Healthcare, E-commerce, Cloud Computing, Hugging Face, Timm, OpenCV, Team Leadership, Communication.
+
+
+[![Read the story](https://miro.medium.com/v2/resize:fit:720/format:webp/1*0ghHj3UtTLeyCy2P0GfIFw.jpeg)](https://medium.com/ai-in-plain-english/my-experience-at-the-genai-course-implementing-rag-in-production-environments-8537ee94300d)
+
