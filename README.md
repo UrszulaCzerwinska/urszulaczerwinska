@@ -37,7 +37,12 @@ I am an experienced data scientist and deep learning engineer with a Ph.D. in Da
 
 𝗞𝗲𝘆𝘄𝗼𝗿𝗱𝘀: Data Science, Deep Learning, Healthcare, Computer Vision, NLP, Machine Learning, Python, TensorFlow, PyTorch, Allennlp, Flair, Healthcare, E-commerce, Cloud Computing, Hugging Face, Timm, OpenCV, Team Leadership, Communication.
 
-
-[![Read the story](https://miro.medium.com/v2/resize:fit:720/format:webp/1*0ghHj3UtTLeyCy2P0GfIFw.jpeg){width=300px}](https://medium.com/ai-in-plain-english/my-experience-at-the-genai-course-implementing-rag-in-production-environments-8537ee94300d)
-
+| Image | Abstract |
+| --- | --- |
+| <a href="https://medium.com/ai-in-plain-english/my-experience-at-the-genai-course-implementing-rag-in-production-environments-8537ee94300d"><img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*0ghHj3UtTLeyCy2P0GfIFw.jpeg" alt="Read the story" style="width:150px; height:auto; border:1px solid #ccc; border-radius:4px;" /></a> | **My Experience at the GenAI Course**<br>Implementing RAG in production environments was a transformative journey that provided invaluable insights into the integration of Generative AI systems... |
+| <a href="https://medium.com/post2"><img src="https://via.placeholder.com/150" alt="Story 2" style="width:150px; height:auto; border:1px solid #ccc; border-radius:4px;" /></a> | **Another Insightful Post**<br>Exploring the depths of AI and its applications in modern technology, this post delves into the latest trends and future prospects... |
+| <a href="https://medium.com/post3"><img src="https://via.placeholder.com/150" alt="Story 3" style="width:150px; height:auto; border:1px solid #ccc; border-radius:4px;" /></a> | **Understanding Machine Learning**<br>A comprehensive guide to the fundamentals of machine learning, covering essential algorithms and practical applications... |
+| <a href="https://medium.com/post4"><img src="https://via.placeholder.com/150" alt="Story 4" style="width:150px; height:auto; border:1px solid #ccc; border-radius:4px;" /></a> | **Advanced Neural Networks**<br>Diving deep into the architecture and optimization of neural networks, this post explores cutting-edge techniques and methodologies... |
+| <a href="https://medium.com/post5"><img src="https://via.placeholder.com/150" alt="Story 5" style="width:150px; height:auto; border:1px solid #ccc; border-radius:4px;" /></a> | **AI Ethics and Responsibility**<br>Examining the ethical considerations in AI development and deployment, this article discusses the balance between innovation and moral obligations... |
+| <a href="https://medium.com/post6"><img src="https://via.placeholder.com/150" alt="Story 6" style="width:150px; height:auto; border:1px solid #ccc; border-radius:4px;" /></a> | **Natural Language Processing Trends**<br>Latest advancements and future directions in NLP technologies, highlighting significant breakthroughs and their implications... |
 
