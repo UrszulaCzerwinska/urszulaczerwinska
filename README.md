@@ -15,7 +15,7 @@ I am an experienced data scientist and deep learning engineer with a Ph.D. in Da
 𝐈 𝐚𝐦 𝐝𝐫𝐢𝐯𝐞𝐧 𝐛𝐲:
 
 * Innovating with generative AI to push the boundaries of AI applications.
-* Promoting the responsible, ethical use of AI
+* Deep tech complex problems needing advanced neural network architectures
 * Sharing knowledge on advanced topics in AI and contributing to the tech community.
 
 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞 𝐭𝐨 𝐥𝐞𝐚𝐫𝐧 𝐦𝐨𝐫𝐞 𝐚𝐛𝐨𝐮𝐭:
