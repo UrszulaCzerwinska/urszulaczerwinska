@@ -5,8 +5,11 @@ Data Scientist & Deep Learning Specialist | Computer Vision | NLP | GenAI & LLMs
 I am an experienced data scientist and deep learning engineer with a Ph.D. in Data Science applied to Health Sciences, specializing in applying advanced AI and machine learning algorithms across healthcare, legal, and e-commerce industries. Recently trained in Generative AI and Large Language Models (LLMs).
 
 ---
+## What I am looking for professionally
 
-> I am looking for a challenging role where I can use my skills and passion to make a meaningful impact in any industry that utilizes AI. My ideal opportunity would allow me to:
+> A challenging role where I can use my skills and passion to make a meaningful impact in any industry that utilizes AI.
+>
+> My ideal opportunity would allow me to:
 >  * Work on cutting-edge deep learning projects.
 >  * Work with research on SOTA Deep Learning.
 >  * Collaborate with talented individuals.
