@@ -1,48 +1,60 @@
 ## Hi there 👋
 
-𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐭𝐢𝐬𝐭 & 𝐃𝐞𝐞𝐩 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐒𝐩𝐞𝐜𝐢𝐚𝐥𝐢𝐬𝐭 | 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐕𝐢𝐬𝐢𝐨𝐧 | 𝐍𝐋𝐏 | 𝐆𝐞𝐧𝐀𝐈 & 𝐋𝐋𝐌𝐬 | 𝐄-𝐜𝐨𝐦𝐦𝐞𝐫𝐜𝐞 | Applied Research Scientists | 𝐏𝐚𝐫𝐢𝐬, 𝐅𝐫𝐚𝐧𝐜𝐞
+Data Scientist & Deep Learning Specialist | Computer Vision | NLP | GenAI & LLMs | E-commerce | Applied Research Scientist | Paris, France
 
 I am an experienced data scientist and deep learning engineer with a Ph.D. in Data Science applied to Health Sciences, specializing in applying advanced AI and machine learning algorithms across healthcare, legal, and e-commerce industries. Recently trained in Generative AI and Large Language Models (LLMs).
 
-𝐌𝐲 𝐞𝐱𝐩𝐞𝐫𝐭𝐢𝐬𝐞 𝐢𝐧𝐜𝐥𝐮𝐝𝐞𝐬:
+---
 
-* 𝐋𝐚𝐫𝐠𝐞 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞 𝐌𝐨𝐝𝐞𝐥𝐬 𝐚𝐧𝐝 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐢𝐯𝐞 𝐀𝐈: Extensive hands-on experience with LLMs, AI agents, building RAG systems.
-* 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐕𝐢𝐬𝐢𝐨𝐧: Diffusion models, scene text detection, classification, object detection, self-supervised learning.
-* 𝐍𝐚𝐭𝐮𝐫𝐚𝐥 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞 𝐏𝐫𝐨𝐜𝐞𝐬𝐬𝐢𝐧𝐠: Expertise in Named Entity Recognition, text classification, t2t.
-* 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 & 𝐃𝐞𝐞𝐩 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠: Proficiency in frameworks like TensorFlow, PyTorch
-* 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐋𝐞𝐚𝐝𝐞𝐫𝐬𝐡𝐢𝐩: Experienced in managing cross-functional teams and delivering AI solutions in production environments.
+> I am looking for a challenging role where I can use my skills and passion to make a meaningful impact in any industry that utilizes AI. My ideal opportunity would allow me to:
+>  * Work on cutting-edge deep learning projects.
+>  * Work with research on SOTA Deep Learning.
+>  * Collaborate with talented individuals.
+>  * Make a tangible difference in the world.
+>  * Contribute to diverse and international team.
+>  * Comunicate the achievements through blogs, articles and open source code.
 
-𝐈 𝐚𝐦 𝐝𝐫𝐢𝐯𝐞𝐧 𝐛𝐲:
+---
+
+## My expertise includes:
+
+- Large Language Models and Generative AI: Extensive hands-on experience with LLMs, AI agents, and building RAG systems.
+- Computer Vision: Diffusion models, scene text detection, classification, object detection, and self-supervised learning.
+- Natural Language Processing: Expertise in Named Entity Recognition, text classification, and text-to-text models.
+- Machine Learning & Deep Learning: Proficiency in frameworks like TensorFlow and PyTorch.
+- Project Leadership: Experienced in managing cross-functional teams and delivering AI solutions in production environments.
+
+
+## I am motivated by: 
 
 * Innovating with generative AI to push the boundaries of AI applications.
 * Deep tech complex problems needing advanced neural network architectures
 * Sharing knowledge on advanced topics in AI and contributing to the tech community.
 
-𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞 𝐭𝐨 𝐥𝐞𝐚𝐫𝐧 𝐦𝐨𝐫𝐞 𝐚𝐛𝐨𝐮𝐭:
+## Connect with me:
 
-* My Linkedin Profile: https://www.linkedin.com/in/urszulaczerwinska/
-* My deep learning expertise: https://github.com/UrszulaCzerwinska
-* My latest publications: https://orcid.org/0000-0002-5244-0708 
-* My thoughts on AI & life: https://medium.com/@ulalaparis
+* [Linkedin Profile](https://www.linkedin.com/in/urszulaczerwinska/)
+* [Personal webpage](https://github.com/UrszulaCzerwinska)
+* [Publication record](https://scholar.google.com/citations?hl=en&user=ZhaBPfoAAAAJ&view_op=list_works&sortby=pubdate)
+* [Medium blog](https://medium.com/@ulalaparis)
 
 
-𝑰 𝒂𝒎 𝒔𝒆𝒆𝒌𝒊𝒏𝒈 𝒂 𝒄𝒉𝒂𝒍𝒍𝒆𝒏𝒈𝒊𝒏𝒈 𝒓𝒐𝒍𝒆 𝒘𝒉𝒆𝒓𝒆 𝑰 𝒄𝒂𝒏 𝒍𝒆𝒗𝒆𝒓𝒂𝒈𝒆 𝒎𝒚 𝒔𝒌𝒊𝒍𝒍𝒔 𝒂𝒏𝒅 𝒑𝒂𝒔𝒔𝒊𝒐𝒏 𝒕𝒐 𝒎𝒂𝒌𝒆 𝒂 𝒔𝒊𝒈𝒏𝒊𝒇𝒊𝒄𝒂𝒏𝒕 𝒊𝒎𝒑𝒂𝒄𝒕 𝒊𝒏 𝒂𝒏𝒚 𝒊𝒏𝒅𝒖𝒔𝒕𝒓𝒚 𝒕𝒉𝒂𝒕 𝒍𝒆𝒗𝒆𝒓𝒂𝒈𝒆𝒔 𝒕𝒉𝒆 𝒑𝒐𝒘𝒆𝒓 𝒐𝒇 𝑨𝑰. 𝑴𝒚 𝒊𝒅𝒆𝒂𝒍 𝒐𝒑𝒑𝒐𝒓𝒕𝒖𝒏𝒊𝒕𝒚 𝒘𝒐𝒖𝒍𝒅 𝒐𝒇𝒇𝒆𝒓 𝒎𝒆 𝒕𝒉𝒆 𝒄𝒉𝒂𝒏𝒄𝒆 𝒕𝒐:
 
-* Work on cutting-edge deep learning projects.
-* Work with research on SOTA Deep Learning.
-* Collaborate with talented individuals.
-* Make a tangible difference in the world.
-* Contribute to diverse and international team.
-* Comunicate the achievements through blogs, articles and open source code.
 
 𝗞𝗲𝘆𝘄𝗼𝗿𝗱𝘀: Data Science, Deep Learning, Healthcare, Computer Vision, NLP, Machine Learning, Python, TensorFlow, PyTorch, Allennlp, Flair, Healthcare, E-commerce, Cloud Computing, Hugging Face, Timm, OpenCV, Team Leadership, Communication.
 
-| Image | Abstract |
+---
+
+## Selected Medium articles
+
+|  |  |
 | --- | --- |
 | <a href="https://medium.com/ai-in-plain-english/my-experience-at-the-genai-course-implementing-rag-in-production-environments-8537ee94300d"><img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*0ghHj3UtTLeyCy2P0GfIFw.jpeg" alt="Read the story" style="width:150px; height:auto; border:1px solid #ccc; border-radius:4px;" /></a> | **My Experience at the GenAI Course**<br>Implementing RAG in production environments was a transformative journey that provided invaluable insights into the integration of Generative AI systems... |
-| <a href="https://medium.com/post2"><img src="https://via.placeholder.com/150" alt="Story 2" style="width:150px; height:auto; border:1px solid #ccc; border-radius:4px;" /></a> | **Another Insightful Post**<br>Exploring the depths of AI and its applications in modern technology, this post delves into the latest trends and future prospects... |
-| <a href="https://medium.com/post3"><img src="https://via.placeholder.com/150" alt="Story 3" style="width:150px; height:auto; border:1px solid #ccc; border-radius:4px;" /></a> | **Understanding Machine Learning**<br>A comprehensive guide to the fundamentals of machine learning, covering essential algorithms and practical applications... |
-| <a href="https://medium.com/post4"><img src="https://via.placeholder.com/150" alt="Story 4" style="width:150px; height:auto; border:1px solid #ccc; border-radius:4px;" /></a> | **Advanced Neural Networks**<br>Diving deep into the architecture and optimization of neural networks, this post explores cutting-edge techniques and methodologies... |
+| <a href="https://medium.com/@ulalaparis/from-pca-to-ssl-a-personal-odyssey-in-data-science-ba41ef311c5b"><img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*vNFThhwF1DUIn0KmWmJK8g.png" alt="From PCA to SSL: A personal odyssey in Data Science" style="width:150px; height:auto; border:1px solid #ccc; border-radius:4px;" /></a> | **From PCA to SSL: A personal odyssey in Data Science**<br>Tracing the evolution: My journey through the changing landscape of data science |
+| <a href="https://medium.com/adevinta-tech-blog/foundation-models-a-new-vision-for-e-commerce-76904a3066e8"><img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*PDC2WWQyZPpIcKZU" alt="Foundation Models: A New Vision for E-commerce" style="width:150px; height:auto; border:1px solid #ccc; border-radius:4px;" /></a> | **Foundation Models: A New Vision for E-commerce**<br>Exploring the potential of foundation models integration to enhance e-commerce efficiency and user experience |
+| <a href="https://medium.com/adevinta-tech-blog/deep-dive-in-paddleocr-inference-e86f618a0937"><img src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*B4uqn-7vcxfu5aPz" alt="Deep Dive in PaddleOCR inference" style="width:150px; height:auto; border:1px solid #ccc; border-radius:4px;" /></a> | **Deep Dive in PaddleOCR inference**<br>Discover the complexities of using PaddleOCR as a Text in Image service and how the Cognition team overcame the challenges to improve user experience. |
+<!---
+
 | <a href="https://medium.com/post5"><img src="https://via.placeholder.com/150" alt="Story 5" style="width:150px; height:auto; border:1px solid #ccc; border-radius:4px;" /></a> | **AI Ethics and Responsibility**<br>Examining the ethical considerations in AI development and deployment, this article discusses the balance between innovation and moral obligations... |
 | <a href="https://medium.com/post6"><img src="https://via.placeholder.com/150" alt="Story 6" style="width:150px; height:auto; border:1px solid #ccc; border-radius:4px;" /></a> | **Natural Language Processing Trends**<br>Latest advancements and future directions in NLP technologies, highlighting significant breakthroughs and their implications... |
-
+-->
